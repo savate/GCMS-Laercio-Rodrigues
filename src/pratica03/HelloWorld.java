@@ -8,6 +8,8 @@ public class HelloWorld {
 		System.out.println("My name is");
 		System.out.println("Laercio");
 		System.out.println("Na branch main");
+		System.out.println("Na branch hotfix");
+		System.out.println("Adicionando novos prints");
 
 	}
 
